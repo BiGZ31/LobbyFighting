@@ -4,6 +4,7 @@
 
 ## Overview
 The "Lobby Fighting" plugin is designed for Minecraft servers running on the Spigot platform. It introduces PvP (Player versus Player) combat functionality within the lobby areas of your server, enhancing the gaming experience for players.
+Check it out on spigot (https://www.spigotmc.org/resources/%E2%9A%94%EF%B8%8F-lobby-fighting-%E2%9A%94%EF%B8%8F-pvp-in-all-your-lobbies-amazing-sounds-and-gui.99813/)
 
 ## Features
 - **PvP in Lobbies**: Enable PvP combat within designated lobby areas of your server, allowing players to engage in battles directly within these zones.
