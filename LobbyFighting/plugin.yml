@@ -1,0 +1,9 @@
+name: LobbyFighting
+version: 1.0
+author: BiiGBosSZ
+main: fr.biigbossz.main.main
+commands:
+  lobbyfighting:
+    description: help with the plugin
+  lf:
+    description: help with the plugin
